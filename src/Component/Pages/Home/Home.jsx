@@ -1,9 +1,10 @@
+import Banner from "../../shared/Banner/Banner";
 import Shop from "../Shop/Shop";
 
 const Home = () => {
     return (
         <div>
-            <h3 className="text-3xl">Home Section</h3>
+            <Banner/>
             <Shop/>
         </div>
     );
