@@ -3,7 +3,7 @@ import { IoMenu } from "react-icons/io5";
 
 const Navber = () => {
     return (
-        <div className="flex justify-between  items-center px-4 py-3 text-white bg-slate-600">
+        <div className="flex justify-between items-center px-4 py-3 text-white bg-slate-600">
             {/**navber banner */}
              <div>
                  <p>
@@ -12,7 +12,7 @@ const Navber = () => {
              </div>
              {/**navber link  */}
               <div className="flex gap-8 items-center">
-                <Link to='/ ' className="text-xl font-bold">Home</Link>
+                <Link to='/' className="text-xl font-bold">Home</Link>
                 <Link to='/shop' className="text-xl font-bold">Shop</Link>
              </div>
              <div className="flex gap-6 items-center ">
@@ -28,6 +28,7 @@ const Navber = () => {
                  <Link to='/login'>
                    <button  className="rounded bg-indigo-700 text-white px-4 py-2">Login</button>
                  </Link>
+                 
              </div>
         </div>
     );
