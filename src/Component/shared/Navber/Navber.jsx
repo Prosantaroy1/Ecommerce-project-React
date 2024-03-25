@@ -3,19 +3,20 @@ import { IoMenu } from "react-icons/io5";
 
 const Navber = () => {
     return (
-        <div className="flex justify-between items-center px-4 py-3 text-white bg-slate-600">
+        <div className="flex justify-between  items-center px-4 py-3 text-white font-bold bg-black">
             {/**navber banner */}
              <div>
                  <p>
                     <IoMenu className="text-4xl"/>
                  </p>
              </div>
-             {/**navber link  */}
+             {/**search bar  */}
               <div className="flex gap-8 items-center">
-                <Link to='/' className="text-xl font-bold">Home</Link>
-                <Link to='/shop' className="text-xl font-bold">Shop</Link>
+              <input type="text" placeholder="Search product.." className="rounded ps-4 border border-solid w-96 py-2" />
              </div>
-             <div className="flex gap-6 items-center ">
+             <div className="flex gap-12 items-center ">
+                {/**home link */}
+               <Link to='/' className="text-xl font-bold">Home</Link>
                 {/**add card product */}
                <Link to='/card' className="text-xl pt-2">
                 <div className="indicator">
@@ -23,7 +24,6 @@ const Navber = () => {
                      <span className="badge badge-sm indicator-item">8</span>
                 </div>
                 </Link>
-                <input type="text" placeholder="Search product.." className="rounded ps-4 border border-solid w-12 md:w-auto py-2" />
                  {/**login link */}
                  <Link to='/login'>
                    <button  className="rounded bg-indigo-700 text-white px-4 py-2">Login</button>

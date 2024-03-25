@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "product_img": "../public/images/images.jfif",
+      "item_name": "Diamond Pendant Necklace",
+      "price": 999.99,
+      "description_title": "Adorn yourself with elegance wearing our Diamond Pendant Necklace. Featuring exquisite craftsmanship and sparkling diamonds, this piece adds a touch of glamour to any outfit. Elevate your style with this timeless accessory."
+    },
+    {
+      "id": 2,
+      "product_img": "../public/images/images (1).jfif",
+      "item_name": "Pearl Drop Earrings",
+      "price": 299.99,
+      "description_title": "Dazzle with sophistication in our Pearl Drop Earrings. Crafted with lustrous pearls and delicate detailing, these earrings exude timeless charm. Whether for a special occasion or everyday wear, they're a classic addition to your jewelry collection."
+    },
+    {
+      "id": 3,
+      "product_img": "../public/images/images (2).jfif",
+      "item_name": "Gold Bangle Bracelet",
+      "price": 499.99,
+      "description_title": "Wrap your wrist in luxury with our Gold Bangle Bracelet. Crafted from gleaming gold and adorned with intricate patterns, this bracelet is a symbol of timeless elegance. Make a statement with this exquisite accessory."
+    },
+    {
+      "id": 4,
+      "product_img": "ring1.jpg",
+      "item_name": "Sapphire Cocktail Ring",
+      "price": 799.99,
+      "description_title": "Command attention with our Sapphire Cocktail Ring. Set with a dazzling sapphire surrounded by shimmering diamonds, this ring exudes opulence. Whether for a glamorous event or everyday luxury, it's a stunning addition to your jewelry box."
+    },
+    {
+      "id": 5,
+      "product_img": "pendant1.jpg",
+      "item_name": "Gemstone Pendant",
+      "price": 199.99,
+      "description_title": "Embrace sophistication with our Gemstone Pendant. Featuring a vibrant gemstone set in gleaming gold, this pendant adds a pop of color to any ensemble. Elevate your look with this versatile and stylish accessory."
+    }
+  ]

@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "product_img": "../public/images/download (1).jfif",
+      "item_name": "Smartphone X",
+      "price": 699.99,
+      "description_title": "Experience the future with Smartphone X. Boasting cutting-edge features and a sleek design, this device redefines innovation. From its stunning display to its powerful performance, it's the ultimate companion for your digital life."
+    },
+    {
+      "id": 2,
+      "product_img": "../public/images/images (3).jfif",
+      "item_name": "Laptop Pro",
+      "price": 1299.99,
+      "description_title": "Unleash your productivity with Laptop Pro. Engineered for performance and portability, this laptop offers a seamless computing experience. With its premium design and powerful specs, it's your gateway to endless possibilities."
+    },
+    {
+      "id": 3,
+      "product_img": "../public/images/download (2).jfif",
+      "item_name": "Wireless Headphones",
+      "price": 199.99,
+      "description_title": "Immerse yourself in music with Wireless Headphones. Featuring advanced noise-canceling technology and premium sound quality, these headphones deliver an unparalleled listening experience. Stay connected and enjoy your favorite tunes wherever you go."
+    },
+    {
+      "id": 4,
+      "product_img": "camera1.jpg",
+      "item_name": "Digital Camera 360",
+      "price": 599.99,
+      "description_title": "Capture life's moments in stunning detail with Digital Camera 360. Equipped with advanced features and intuitive controls, this camera lets you unleash your creativity. From breathtaking landscapes to candid portraits, it's your perfect companion for every adventure."
+    },
+    {
+      "id": 5,
+      "product_img": "speaker1.jpg",
+      "item_name": "Smart Speaker Mini",
+      "price": 79.99,
+      "description_title": "Elevate your audio experience with Smart Speaker Mini. Compact yet powerful, this speaker delivers rich, immersive sound. With built-in voice control and smart home integration, it's the ultimate hub for entertainment and convenience."
+    }
+  ]

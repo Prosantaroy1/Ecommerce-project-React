@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "product_img": "../public/images/images (4).jfif",
+      "price": 49.99,
+      "item_name": "Men's Casual Shirt",
+      "description_title": "Elevate your casual look with this timeless Men's Casual Shirt. Crafted from high-quality cotton, this shirt offers both comfort and style. Whether you're meeting friends or heading to work, this versatile piece will keep you looking sharp. With its classic design and durable construction, it's a wardrobe staple for any modern man."
+    },
+    {
+      "id": 2,
+      "product_img": "../public/images/images (5).jfif",
+      "price": 79.99,
+      "item_name": "Men's Leather Jacket",
+      "description_title": "Make a statement with our Men's Leather Jacket, exuding rugged sophistication. Crafted from premium leather, this jacket offers unparalleled durability and style. Its classic design features a sleek silhouette and intricate stitching, perfect for any occasion. Whether you're riding a motorcycle or enjoying a night out, this jacket will add a touch of edge to your ensemble."
+    },
+    {
+      "id": 3,
+      "product_img": "../public/images/images (6).jfif",
+      "price": 29.99,
+      "item_name": "New Design Jama",
+      "description_title": "Step up your denim game with our Men's Slim Fit Jeans. Made from stretchy cotton fabric, these jeans offer a comfortable yet tailored fit. Their modern design features a slim silhouette and classic five-pocket styling, perfect for casual outings or nights on the town. Pair them with your favorite shirt or sweater for effortless style."
+    },
+    {
+      "id": 4,
+      "product_img": "men4.jpg",
+      "price": 39.99,
+      "item_name": "Men's Sneakers",
+      "description_title": "Stride in style with our Men's Sneakers, the perfect blend of comfort and fashion. Crafted from breathable materials, these sneakers keep your feet cool and comfortable all day long. Their versatile design makes them ideal for both casual and active wear. With their cushioned footbed and durable outsole, they provide support and traction with every step."
+    },
+    {
+      "id": 5,
+      "product_img": "men5.jpg",
+      "price": 59.99,
+      "item_name": "Men's Formal Suit",
+      "description_title": "Command attention in our Men's Formal Suit, tailored to perfection. Made from premium fabric, this suit exudes sophistication and class. Its classic design features a tailored fit and timeless details, ideal for weddings, business meetings, or any formal occasion. Elevate your ensemble with this impeccably crafted suit, guaranteed to make a lasting impression."
+    }
+]
