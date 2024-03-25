@@ -17,6 +17,7 @@ const Navber = () => {
              <div className="flex gap-12 items-center ">
                 {/**home link */}
                <Link to='/' className="text-xl font-bold">Home</Link>
+               <Link to='/shop' className="text-xl font-bold">Shop</Link>
                 {/**add card product */}
                <Link to='/card' className="text-xl pt-2">
                 <div className="indicator">

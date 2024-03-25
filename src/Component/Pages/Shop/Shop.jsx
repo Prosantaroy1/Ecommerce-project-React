@@ -1,8 +1,13 @@
+import Electronicpage from "../../ElectronicPage/Electronicpage";
+import Jewellerypage from "../../JewelleryPage/Jewellerypage";
+import Fashionpage from "../FashionPage/Fashionpage";
 
 const Shop = () => {
     return (
-        <div>
-            <h3 className="text-2xl">This is Shop Now....</h3>
+        <div className="pt-8">
+            <Fashionpage/>
+            <Electronicpage/>
+            <Jewellerypage/>
         </div>
     );
 };
