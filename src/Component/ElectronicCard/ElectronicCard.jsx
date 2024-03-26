@@ -1,8 +1,13 @@
 /* eslint-disable react/prop-types */
 
+import { Link } from "react-router-dom";
+
 
 const ElectronicCard = ({product}) => {
-    const {product_img, price,item_name} = product;
+    
+    const {product_img, price,item_name,id} = product;
+    //console.log(id);
+
     return (
         <div>
             <div className="card w-96  bg-base-100 shadow-xl">
@@ -16,7 +21,9 @@ const ElectronicCard = ({product}) => {
                  </div>
                  <div className="flex justify-between pb-3 px-4">
                     <button className="btn btn-outline btn-info">Add Card</button>
-                    <button className="btn btn-outline btn-warning">More details</button>
+                    <Link to={`/details/${id}`}>
+                      <button  className="btn btn-outline btn-warning">More details</button> 
+                    </Link>
                 </div>
              </div>   
         </div>

@@ -6,7 +6,7 @@ const Shop = () => {
     return (
         <div className="pt-8">
             <Fashionpage/>
-            <Electronicpage/>
+             <Electronicpage/>
             <Jewellerypage/>
         </div>
     );

@@ -3,6 +3,7 @@ import Main from "../Component/layout/Main";
 import Home from "../Component/Pages/Home/Home";
 import Shop from "../Component/Pages/Shop/Shop";
 import Errorpage from "../Component/Pages/ErrorPages/Errorpage";
+import ElectronicDetails from "../Component/ElectronicDetails/ElectronicDetails";
 
 export  const router = createBrowserRouter([
     {
@@ -17,7 +18,13 @@ export  const router = createBrowserRouter([
          {
             path: '/shop',
             element: <Shop/>
+         },
+         {
+            path: '/details/:id',
+            element: <ElectronicDetails/>,
+            loader: ()=>fetch('../../public/electronic.json')
          }
+        
       ]
     },
   ]);
